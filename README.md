@@ -6,12 +6,12 @@ The course will include case studies from both manufacturing and service industr
 Course Content
 1.	Introduction 
 2.	Clustering
-  a.	K-Means 
-  b.	Hierarchical Clustering
-  c.	Fuzzy Set Theory 
-  d.	FCM 
-  e.	Advanced Clustering Algorithms
-  f.	Applications in Operations Management
+	a. K-Means
+	b. Hierarchical Clustering
+	c.	Fuzzy Set Theory 
+	d.	FCM 
+	e.	Advanced Clustering Algorithms
+	f.	Applications in Operations Management
 3.	Classification
   a.	1 –R
   b.	Naive Bayes 
